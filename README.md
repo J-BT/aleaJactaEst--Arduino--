@@ -1,4 +1,4 @@
-#Alea Jacta Est
+# Alea Jacta Est
 
 En utilisant la fonction random pour selectionner un chiffre
 au hazard compris entre 0 et 5, le programme va allumer ou pas
